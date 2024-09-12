@@ -1,0 +1,12 @@
+{
+    "Annual Crop Land": "Land repeatedly cultivated and harvested annually.",
+    "Forest": "Dense concentration of vegetation detected via infrared signals.",
+    "Herbaceous Vegetation Land": "Dominated by non-woody, perennial plant life forms.",
+    "Highway or Road": "Constructed paths for vehicular travel connecting different locations.",
+    "Industrial Buildings": "Locations of manufacturing, processing, or production activities.",
+    "Pasture Land": "Characterized by dedicated areas for grazing livestock.",
+    "Permanent Crop Land": "Cultivation patterns indicating long-term plant growth.",
+    "Residential Buildings": "Densely packed structures designed for human living.",
+    "River": "Constant flow dictated by geographical terrain elevation changes.",
+    "Sea or Lake": "Presence of large, continuous bodies of water."
+}
